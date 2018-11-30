@@ -12,7 +12,7 @@ The original and landmark images are resized and then combined. The combined ima
 
 The trained model is reduced to have a less file size. The reduced model is freezed to a single file.
 
-4.Output
+4. Output
 
 Input to run the demo- camera device index(default=0), show to display the normal input (default = 0), landmark model and frozen model.
 
